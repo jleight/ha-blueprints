@@ -49,7 +49,7 @@ blueprint:
               model: Hue dimmer switch (929002398602)
             # source: https://github.com/dresden-elektronik/deconz-rest-plugin/wiki/Supported-Devices
             - integration: zha
-              manufacturer: Philips
+              manufacturer: Signify Netherlands B.V.
               # **TBConfirmed** model:
             - integration: deconz
               manufacturer: Philips
